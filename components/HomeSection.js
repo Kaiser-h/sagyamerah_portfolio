@@ -154,7 +154,7 @@ const HomeSection = () => {
                 Samuel has extensive experience working with different
                 statistical and financial analysis tools. I am enthusiastic
                 about bringing a unique blend of practical industry experience
-                and academic rigor to industries..
+                and academic rigor to industries.
               </Typography>
             </div>
             <div className="bg-dark text-secondary p-4 flex flex-col gap-3 rounded-xl xl:w-3/12">
